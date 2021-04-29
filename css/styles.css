@@ -78,7 +78,7 @@
 
 .dpMidLeft {
 	/* background-color: green; */
-	width: 3em;
+	width: 3.8em;
 	height: 3em;
 	border-top: 0.3em solid white;
 	border-bottom: 0.3em solid white;
@@ -95,13 +95,15 @@
 
 .dpMidRight {
 	/* background-color: green; */
-	width: 3em;
+	width: 3.4em;
 	height: 3em;
 	border-top: 0.3em solid white;
 	border-right: 0.3em solid white;
 	border-bottom: 0.3em solid white;
 	border-top-right-radius: 10%;
 	border-bottom-right-radius: 10%;
+  margin-right: 0.3em;
+
 }
 
 .dPad3 {
