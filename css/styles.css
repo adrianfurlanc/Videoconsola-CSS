@@ -3,8 +3,7 @@
 }
 
 .container {
-  background-color: red;
-  width: 36em;
+  width: 37em;
   height: 36em;
   margin: 3em auto;
   display: flex;
@@ -13,21 +12,21 @@
 }
 
 .fondo {
-  background-color: lightgray;
-  width: 30em;
-  height: 18em;
+  background-color: #cfcfcf;
+  width: 31.7em;
+  height: 13.2em;
   display: flex;
 }
 
 .columnBlackLeft {
-  background-color: black;
+  background-color: #1d1d1b;
   width: 10em;
   height: 11.6em;
   margin: 1em;
 }
 
 .columnCenterGray {
-  background-color: black;
+  background-color: #1d1d1b;
   width: 10em;
   height: 11.6em;
   margin-top: 1em;
@@ -35,15 +34,15 @@
 }
 
 .bar1 {
-  background-color: gray;
+  background-color: #a7a6a6;
   width: 10em;
   height: 2em;
-  border-radius: 12%;
-  margin: 0.3em 0;
+  border-radius: 7%;
+  margin: 0.1em 0;
 }
 
 .bar2 {
-  background-color: yellow;
+  background-color: #a7a6a6;
   width: 10em;
   height: 2em;
   border-radius: 12%;
@@ -51,7 +50,7 @@
 }
 
 .bar3 {
-  background-color: gray;
+  background-color: #a7a6a6;
   width: 10em;
   height: 2em;
   border-radius: 12%;
@@ -59,17 +58,17 @@
 }
 
 .bar4 {
-  background-color: lightskyblue;
+  background-color: #cfcfcf;
   width: 10em;
   height: 2em;
   margin: 0.3em 0;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
 }
 
 .bar5 {
-  background-color: gray;
+  background-color: #a7a6a6;
   width: 10em;
   height: 2em;
   border-radius: 12%;
@@ -77,67 +76,88 @@
 }
 
 .columnBlackRight {
-  background-color: yellow;
+  background-color: #1d1d1b;
+
   width: 10em;
   height: 11.6em;
   margin-top: 1em;
 }
 
 .start {
-  background-color: coral;
+  background-color: #1d1d1b;
   width: 2em;
-  height: 1em;
+  height: 0.65em;
   border-radius: 20%;
 }
 
 .select {
-  background-color: purple;
+  background-color: #1d1d1b;
   width: 2em;
-  height: 1em;
+  height: 0.65em;
   border-radius: 20%;
 }
 
 .nintendo {
-    background-color: yellowgreen;
+    background-color: #1d1d1b;
     width: 100%;
     height: 4.8em;
-    margin-top: -1em;
     display: flex;
     justify-content: center;
     align-items: flex-end;
 }
 
 p {
-    color: red;
+    color: #dd0725;
+    font-family: "Pretendo";
     font-size: 1.2em;
+    font-weight: 100;
+}
+
+span {
+  font-family: "Times New Roman";
 }
 
 .buttons {
-    background-color: darkmagenta;
-    width: 10em;
+    /* background-color: purple; */
+    background-color: #1d1d1b;
+    width: 6.5em;
     height: 5.8em;
+    margin-left: 1em;
     display: flex;
     justify-content: space-evenly;
     align-items: center
 }
 
 .fondoBotonA {
-    background-color: blue;
+    background-color: #cfcfcf;
     width: 2.5em;
     height: 2.5em;
+    border-radius: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .fondoBotonB {
-    background-color: black;
+    background-color: #cfcfcf;
     width: 2.5em;
     height: 2.5em;
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .botonA {
-    background-color: red;
+    background-color: #dd0725;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+}
+
+.botonB {
+    background-color: #dd0725;
     width: 2em;
     height: 2em;
     border-radius: 50%;
