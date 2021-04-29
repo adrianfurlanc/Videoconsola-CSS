@@ -1,0 +1,144 @@
+* {
+    padding: 0em;
+}
+
+.container {
+  background-color: red;
+  width: 36em;
+  height: 36em;
+  margin: 3em auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fondo {
+  background-color: lightgray;
+  width: 30em;
+  height: 18em;
+  display: flex;
+}
+
+.columnBlackLeft {
+  background-color: black;
+  width: 10em;
+  height: 11.6em;
+  margin: 1em;
+}
+
+.columnCenterGray {
+  background-color: black;
+  width: 10em;
+  height: 11.6em;
+  margin-top: 1em;
+  margin-left: -1em;
+}
+
+.bar1 {
+  background-color: gray;
+  width: 10em;
+  height: 2em;
+  border-radius: 12%;
+  margin: 0.3em 0;
+}
+
+.bar2 {
+  background-color: yellow;
+  width: 10em;
+  height: 2em;
+  border-radius: 12%;
+  margin: 0.3em 0;
+}
+
+.bar3 {
+  background-color: gray;
+  width: 10em;
+  height: 2em;
+  border-radius: 12%;
+  margin: 0.3em 0;
+}
+
+.bar4 {
+  background-color: lightskyblue;
+  width: 10em;
+  height: 2em;
+  margin: 0.3em 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.bar5 {
+  background-color: gray;
+  width: 10em;
+  height: 2em;
+  border-radius: 12%;
+  margin: 0.3em 0;
+}
+
+.columnBlackRight {
+  background-color: yellow;
+  width: 10em;
+  height: 11.6em;
+  margin-top: 1em;
+}
+
+.start {
+  background-color: coral;
+  width: 2em;
+  height: 1em;
+  border-radius: 20%;
+}
+
+.select {
+  background-color: purple;
+  width: 2em;
+  height: 1em;
+  border-radius: 20%;
+}
+
+.nintendo {
+    background-color: yellowgreen;
+    width: 100%;
+    height: 4.8em;
+    margin-top: -1em;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+p {
+    color: red;
+    font-size: 1.2em;
+}
+
+.buttons {
+    background-color: darkmagenta;
+    width: 10em;
+    height: 5.8em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+}
+
+.fondoBotonA {
+    background-color: blue;
+    width: 2.5em;
+    height: 2.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fondoBotonB {
+    background-color: black;
+    width: 2.5em;
+    height: 2.5em;
+}
+
+.botonA {
+    background-color: red;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+}
