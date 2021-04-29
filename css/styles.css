@@ -4,12 +4,20 @@
 }
 
 .container {
+	/* background-color: purple; */
 	width: 37em;
 	height: 36em;
 	margin: 3em auto;
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+
+.cableStart {
+	background-color: #1d1d1b;
+	width: 0.6em;
+	height: 5em;
 }
 
 .fondo {
@@ -102,8 +110,7 @@
 	border-bottom: 0.3em solid white;
 	border-top-right-radius: 10%;
 	border-bottom-right-radius: 10%;
-  margin-right: 0.3em;
-
+	margin-right: 0.3em;
 }
 
 .dPad3 {
@@ -166,8 +173,8 @@
 	height: 2em;
 	margin: 0.3em 0;
 	border-radius: 12%;
-  display: flex;
-  justify-content: space-evenly;
+	display: flex;
+	justify-content: space-evenly;
 }
 
 .bar4 {
@@ -225,14 +232,13 @@
 p {
 	color: #dd0725;
 	font-family: 'Pretendo';
-	font-size: 1.2em;
 	font-weight: 100;
 }
 
 .midButtons {
-  color: red;
-  font-family: 'Pretendo';
-  font-size:  12px;
+	color: red;
+	font-family: 'Pretendo';
+	font-size: 0.8em;
 }
 
 span {
@@ -282,4 +288,33 @@ span {
 	width: 2em;
 	height: 2em;
 	border-radius: 50%;
+}
+
+.letters {
+  /* background: purple; */
+  margin-top: -1.3em;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.letraA {
+	/* background-color: yellow; */
+	width: 2em;
+	height: 2em;
+  margin-left: 3em;
+  text-align: right;
+  color: #dd0725;
+  font-family: 'Pretendo';
+  font-size: 0.8em;
+}
+
+.letraB {
+	/* background-color: gray; */
+	width: 2em;
+	height: 2em;
+  margin-left: 1.8em;
+  text-align: right;
+  color: #dd0725;
+  font-family: 'Pretendo';
+  font-size: 0.8em;
 }
