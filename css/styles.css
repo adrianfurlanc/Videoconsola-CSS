@@ -65,6 +65,13 @@
   border-right: 0.3em solid white;
   border-top-right-radius: 10%;
   border-top-left-radius: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.topArrow {
+  width: 92%;
+	height:109%;
 }
 
 .dpTopRight {
@@ -88,9 +95,24 @@
   border-bottom-left-radius: 10%;
 }
 
+.leftArrow {
+  width: 100%;
+  height: 100%;
+}
+
 .dpMidCenter {
   width: 3em;
   height: 3em;
+}
+
+.midArrow {
+  width: 100%;
+  height: 100%;
+}
+
+.rightArrow {
+  width: 101%;
+	height:100%;
 }
 
 .dpMidRight {
@@ -123,6 +145,11 @@
   border-left: 0.3em solid white;
   border-bottom-right-radius: 10%;
   border-bottom-left-radius: 10%;
+}
+
+.bottomArrow {
+  height: 102%;
+  width: 100%;
 }
 
 .dpBottomRight {
