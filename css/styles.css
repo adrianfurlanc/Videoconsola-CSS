@@ -213,11 +213,19 @@
 	border-radius: 25%;
 }
 
+.start {
+	cursor: pointer;
+}
+
 .select {
 	background-color: #1d1d1b;
 	width: 2.2em;
 	height: 0.62em;
 	border-radius: 25%;
+}
+
+.select:hover {
+	cursor: pointer;
 }
 
 .nintendo {
