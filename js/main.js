@@ -13,13 +13,13 @@ function btnJump() {
 
 
 function start() {
-    var audio = new Audio('../assets/audio/Theme.mp3 ');
+    var audio = new Audio('../assets/audio/Theme.mp3');
     audio.volume = 0.8;
     audio.play();
 }
 
 function underground() {
-    var audio = new Audio('../assets/audio/Underground.mp3 ');
+    var audio = new Audio('../assets/audio/Underground.mp3');
     audio.volume = 0.8;
     audio.play();
 }
