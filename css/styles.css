@@ -284,11 +284,19 @@ span {
 	border-radius: 50%;
 }
 
+.botonA:hover {
+	cursor: pointer;
+}
+
 .botonB {
 	background-color: #dd0725;
 	width: 2em;
 	height: 2em;
 	border-radius: 50%;
+}
+
+.botonB:hover {
+	cursor: pointer;
 }
 
 .letters {
