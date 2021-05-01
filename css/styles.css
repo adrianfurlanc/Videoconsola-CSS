@@ -20,7 +20,7 @@
 	height: 5em;
 }
 
-.fondo {
+.background {
 	background-color: #cfcfcf;
 	width: 35.7em;
 	height: 13.2em;
@@ -41,7 +41,7 @@
 	align-items: center;
 }
 
-.fondoDpad {
+.backgroundDpad {
 	/* background-color: #dd0725; */
 	width: 8em;
 	height: 9em;
@@ -257,7 +257,7 @@ span {
 	align-items: center;
 }
 
-.fondoBotonA {
+.backgroundButtonA {
 	background-color: #cfcfcf;
 	width: 2.5em;
 	height: 2.5em;
@@ -267,7 +267,7 @@ span {
 	align-items: center;
 }
 
-.fondoBotonB {
+.backgroundButtonB {
 	background-color: #cfcfcf;
 	width: 2.5em;
 	height: 2.5em;
@@ -277,25 +277,25 @@ span {
 	align-items: center;
 }
 
-.botonA {
+.buttonA {
 	background-color: #dd0725;
 	width: 2em;
 	height: 2em;
 	border-radius: 50%;
 }
 
-.botonA:hover {
+.buttonA:hover {
 	cursor: pointer;
 }
 
-.botonB {
+.buttonB {
 	background-color: #dd0725;
 	width: 2em;
 	height: 2em;
 	border-radius: 50%;
 }
 
-.botonB:hover {
+.buttonB:hover {
 	cursor: pointer;
 }
 
@@ -306,7 +306,7 @@ span {
   justify-content: flex-start;
 }
 
-.letraA {
+.letterA {
 	/* background-color: yellow; */
 	width: 2em;
 	height: 2em;
@@ -317,7 +317,7 @@ span {
   font-size: 0.8em;
 }
 
-.letraB {
+.letterB {
 	/* background-color: gray; */
 	width: 2em;
 	height: 2em;
