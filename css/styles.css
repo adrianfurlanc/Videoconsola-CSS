@@ -302,6 +302,7 @@ span {
   width: 2em;
   height: 2em;
   border-radius: 50%;
+  box-shadow: -1.5px 0.5px;
 }
 
 .buttonA:hover {
@@ -313,6 +314,7 @@ span {
   width: 2em;
   height: 2em;
   border-radius: 50%;
+  box-shadow: -1.5px 0.5px;
 }
 
 .buttonB:hover {
