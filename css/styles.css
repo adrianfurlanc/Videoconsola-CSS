@@ -220,10 +220,11 @@
 }
 
 .start {
-  background-color: #1d1d1b;
+  background-color: #59595B;
   width: 2.2em;
   height: 0.62em;
   border-radius: 25%;
+  box-shadow: -1.1px 1px;
 }
 
 .start {
@@ -231,10 +232,11 @@
 }
 
 .select {
-  background-color: #1d1d1b;
+  background-color: #59595B;
   width: 2.2em;
   height: 0.62em;
   border-radius: 25%;
+  box-shadow: -1px 1px;
 }
 
 .select:hover {
