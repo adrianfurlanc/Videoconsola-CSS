@@ -1,310 +1,295 @@
 * {
-	box-sizing: border-box;
-	padding: 0em;
+  box-sizing: border-box;
+  padding: 0em;
 }
 
 .container {
-	/* background-color: purple; */
-	width: 37em;
-	height: 36em;
-	margin: 3em auto;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+  width: 37em;
+  height: 36em;
+  margin: 3em auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .cableStart {
-	background-color: #1d1d1b;
-	width: 0.6em;
-	height: 5em;
+  background-color: #1d1d1b;
+  width: 0.6em;
+  height: 5em;
 }
 
 .background {
-	background-color: #cfcfcf;
-	width: 35.7em;
-	height: 13.2em;
-	display: flex;
-	border-radius: 2%;
-	box-shadow: 0.5em 1.2em 2em;
+  background-color: #cfcfcf;
+  width: 35.7em;
+  height: 13.2em;
+  display: flex;
+  border-radius: 2%;
+  box-shadow: 0.5em 1.2em 2em;
 }
 
 .columnBlackLeft {
-	background-color: #1d1d1b;
-	width: 14em;
-	height: 11.6em;
-	border-top-left-radius: 2%;
-	border-bottom-left-radius: 2%;
-	margin: 1em;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  background-color: #1d1d1b;
+  width: 14em;
+  height: 11.6em;
+  border-top-left-radius: 2%;
+  border-bottom-left-radius: 2%;
+  margin: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .backgroundDpad {
-	/* background-color: #dd0725; */
-	width: 8em;
-	height: 9em;
-	margin-right: 1em;
+  width: 8em;
+  height: 9em;
+  margin-right: 1em;
 }
 
 .dPad1 {
-	/* background-color: aqua; */
-	width: 9em;
-	height: 3em;
-	display: flex;
+  width: 9em;
+  height: 3em;
+  display: flex;
 }
 
 .dpTopLeft {
-	/* background-color: blue; */
-	width: 3em;
-	height: 3em;
+  width: 3em;
+  height: 3em;
 }
 
 .dpTopCenter {
-	/* background-color: green; */
-	width: 3em;
-	height: 3em;
-	border-left: 0.3em solid white;
-	border-top: 0.3em solid white;
-	border-right: 0.3em solid white;
-	border-top-right-radius: 10%;
-	border-top-left-radius: 10%;
+  width: 3em;
+  height: 3em;
+  border-left: 0.3em solid white;
+  border-top: 0.3em solid white;
+  border-right: 0.3em solid white;
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
 }
 
 .dpTopRight {
-	/* background-color: blue; */
-	width: 3em;
-	height: 3em;
+  width: 3em;
+  height: 3em;
 }
 
 .dPad2 {
-	/* background-color: lightcoral; */
-	width: 9em;
-	height: 3em;
-	display: flex;
+  width: 9em;
+  height: 3em;
+  display: flex;
 }
 
 .dpMidLeft {
-	/* background-color: green; */
-	width: 3.8em;
-	height: 3em;
-	border-top: 0.3em solid white;
-	border-bottom: 0.3em solid white;
-	border-left: 0.3em solid white;
-	border-top-left-radius: 10%;
-	border-bottom-left-radius: 10%;
+  width: 3.8em;
+  height: 3em;
+  border-top: 0.3em solid white;
+  border-bottom: 0.3em solid white;
+  border-left: 0.3em solid white;
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
 }
 
 .dpMidCenter {
-	/* background-color: blue; */
-	width: 3em;
-	height: 3em;
+  width: 3em;
+  height: 3em;
 }
 
 .dpMidRight {
-	/* background-color: green; */
-	width: 3.4em;
-	height: 3em;
-	border-top: 0.3em solid white;
-	border-right: 0.3em solid white;
-	border-bottom: 0.3em solid white;
-	border-top-right-radius: 10%;
-	border-bottom-right-radius: 10%;
-	margin-right: 0.3em;
+  width: 3.4em;
+  height: 3em;
+  border-top: 0.3em solid white;
+  border-right: 0.3em solid white;
+  border-bottom: 0.3em solid white;
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+  margin-right: 0.3em;
 }
 
 .dPad3 {
-	/* background-color: lawngreen; */
-	width: 9em;
-	height: 3em;
-	display: flex;
+  width: 9em;
+  height: 3em;
+  display: flex;
 }
 
 .dpBottomLeft {
-	/* background-color: blue; */
-	width: 3em;
-	height: 3em;
+  width: 3em;
+  height: 3em;
 }
 
 .dpBottomCenter {
-	/* background-color: green; */
-	width: 3em;
-	height: 3em;
-	border-right: 0.3em solid white;
-	border-bottom: 0.3em solid white;
-	border-left: 0.3em solid white;
-	border-bottom-right-radius: 10%;
-	border-bottom-left-radius: 10%;
+  width: 3em;
+  height: 3em;
+  border-right: 0.3em solid white;
+  border-bottom: 0.3em solid white;
+  border-left: 0.3em solid white;
+  border-bottom-right-radius: 10%;
+  border-bottom-left-radius: 10%;
 }
 
 .dpBottomRight {
-	/* background-color: blue; */
-	width: 3em;
-	height: 3em;
+  width: 3em;
+  height: 3em;
 }
 
 .columnCenterGray {
-	background-color: #1d1d1b;
-	width: 10em;
-	height: 11.6em;
-	margin-top: 1em;
-	margin-left: -1em;
+  background-color: #1d1d1b;
+  width: 10em;
+  height: 11.6em;
+  margin-top: 1em;
+  margin-left: -1em;
 }
 
 .bar1 {
-	background-color: #a7a6a6;
-	width: 10em;
-	height: 2em;
-	margin: 0em 0;
-	border-radius: 7%;
+  background-color: #a7a6a6;
+  width: 10em;
+  height: 2em;
+  margin: 0em 0;
+  border-radius: 7%;
 }
 
 .bar2 {
-	background-color: #a7a6a6;
-	width: 10em;
-	height: 2em;
-	margin: 0.3em 0;
-	border-radius: 12%;
+  background-color: #a7a6a6;
+  width: 10em;
+  height: 2em;
+  margin: 0.3em 0;
+  border-radius: 12%;
 }
 
 .bar3 {
-	background-color: #a7a6a6;
-	width: 10em;
-	height: 2em;
-	margin: 0.3em 0;
-	border-radius: 12%;
-	display: flex;
-	justify-content: space-evenly;
+  background-color: #a7a6a6;
+  width: 10em;
+  height: 2em;
+  margin: 0.3em 0;
+  border-radius: 12%;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .bar4 {
-	background-color: #cfcfcf;
-	width: 10em;
-	height: 2em;
-	margin: 0.3em 0;
-	border-radius: 4%;
-	display: flex;
-	justify-content: space-evenly;
-	align-items: center;
+  background-color: #cfcfcf;
+  width: 10em;
+  height: 2em;
+  margin: 0.3em 0;
+  border-radius: 4%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .bar5 {
-	background-color: #a7a6a6;
-	width: 10em;
-	height: 2em;
-	border-radius: 2%;
-	margin: 0.7em 0;
+  background-color: #a7a6a6;
+  width: 10em;
+  height: 2em;
+  border-radius: 2%;
+  margin: 0.7em 0;
 }
 
 .columnBlackRight {
-	background-color: #1d1d1b;
-	width: 10em;
-	height: 11.6em;
-	border-top-right-radius: 2%;
-	border-bottom-right-radius: 3%;
-	margin-top: 1em;
+  background-color: #1d1d1b;
+  width: 10em;
+  height: 11.6em;
+  border-top-right-radius: 2%;
+  border-bottom-right-radius: 3%;
+  margin-top: 1em;
 }
 
 .start {
-	background-color: #1d1d1b;
-	width: 2.2em;
-	height: 0.62em;
-	border-radius: 25%;
+  background-color: #1d1d1b;
+  width: 2.2em;
+  height: 0.62em;
+  border-radius: 25%;
 }
 
 .start {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .select {
-	background-color: #1d1d1b;
-	width: 2.2em;
-	height: 0.62em;
-	border-radius: 25%;
+  background-color: #1d1d1b;
+  width: 2.2em;
+  height: 0.62em;
+  border-radius: 25%;
 }
 
 .select:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .nintendo {
-	background-color: #1d1d1b;
-	width: 100%;
-	height: 4.8em;
-	border-top-right-radius: 2%;
-	display: flex;
-	justify-content: center;
-	align-items: flex-end;
+  background-color: #1d1d1b;
+  width: 100%;
+  height: 4.8em;
+  border-top-right-radius: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
 }
 
 p {
-	color: #dd0725;
-	font-family: 'Pretendo';
-	font-weight: 100;
+  color: #dd0725;
+  font-family: "Pretendo";
+  font-weight: 100;
 }
 
 .midButtons {
-	color: red;
-	font-family: 'Pretendo';
-	font-size: 0.8em;
+  color: red;
+  font-family: "Pretendo";
+  font-size: 0.8em;
 }
 
 span {
-	font-family: 'Times New Roman';
+  font-family: "Times New Roman";
 }
 
 .buttons {
-	/* background-color: purple; */
-	background-color: #1d1d1b;
-	width: 6.5em;
-	height: 5.8em;
-	margin-left: 1em;
-	display: flex;
-	justify-content: space-evenly;
-	align-items: center;
+  background-color: #1d1d1b;
+  width: 6.5em;
+  height: 5.8em;
+  margin-left: 1em;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .backgroundButtonA {
-	background-color: #cfcfcf;
-	width: 2.5em;
-	height: 2.5em;
-	border-radius: 10%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  background-color: #cfcfcf;
+  width: 2.5em;
+  height: 2.5em;
+  border-radius: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .backgroundButtonB {
-	background-color: #cfcfcf;
-	width: 2.5em;
-	height: 2.5em;
-	border-radius: 10%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  background-color: #cfcfcf;
+  width: 2.5em;
+  height: 2.5em;
+  border-radius: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .buttonA {
-	background-color: #dd0725;
-	width: 2em;
-	height: 2em;
-	border-radius: 50%;
+  background-color: #dd0725;
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
 }
 
 .buttonA:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .buttonB {
-	background-color: #dd0725;
-	width: 2em;
-	height: 2em;
-	border-radius: 50%;
+  background-color: #dd0725;
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
 }
 
 .buttonB:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .letters {
@@ -315,23 +300,21 @@ span {
 }
 
 .letterA {
-	/* background-color: yellow; */
-	width: 2em;
-	height: 2em;
-  margin-left: 3em;
+  width: 2em;
+  height: 2em;
+  margin-left: 1.8em;
   text-align: right;
   color: #dd0725;
-  font-family: 'Pretendo';
+  font-family: "Pretendo";
   font-size: 0.8em;
 }
 
 .letterB {
-	/* background-color: gray; */
-	width: 2em;
-	height: 2em;
-  margin-left: 1.8em;
+  width: 2em;
+  height: 2em;
+  margin-left: 2.8em;
   text-align: right;
   color: #dd0725;
-  font-family: 'Pretendo';
+  font-family: "Pretendo";
   font-size: 0.8em;
 }
