@@ -224,7 +224,7 @@
   width: 2.2em;
   height: 0.62em;
   border-radius: 25%;
-  box-shadow: -1.1px 1px;
+  box-shadow: -0.1em 0.1em;
 }
 
 .start {
@@ -236,7 +236,7 @@
   width: 2.2em;
   height: 0.62em;
   border-radius: 25%;
-  box-shadow: -1px 1px;
+  box-shadow: -0.1em 0.1em;
 }
 
 .select:hover {
