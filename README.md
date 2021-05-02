@@ -8,4 +8,3 @@
 
 ## Image Preview:
 ![image](https://github.com/adrianfurlanc/Videoconsola-CSS/blob/master/img/Preview.jp?raw=true)
-
