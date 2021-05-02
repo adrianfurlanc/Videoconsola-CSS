@@ -3,6 +3,9 @@
 
 You can open the webpage in the following link: https://adrianfurlanc.github.io/Videoconsola-CSS/
 
+## Image Preview
+![image](https://github.com/adrianfurlanc/Videoconsola-CSS/blob/master/img/Preview.jpg?raw=true)
+
 ## Installation
 1. Clone the git repository
 2. Install the ```Pretendo.ttf``` file.
