@@ -1,10 +1,17 @@
 
 # Videoconsola con CSS (NES Controller)
 
+You can open the webpage in the following link: https://adrianfurlanc.github.io/Videoconsola-CSS/
+
 ## Installation
 1. Clone the git repository
 2. Install the ```Pretendo.ttf``` file.
 3. Open the website in Google Chrome.
 
-## Image Preview:
-![image](https://github.com/adrianfurlanc/Videoconsola-CSS/blob/master/img/Preview.jp?raw=true)
+## Audio
+Click buttons to listen to sounds of Super Mario Bros Nintendo game.
+
+## Technologies Used
+- HTML5
+- CSS3
+- Javascript
