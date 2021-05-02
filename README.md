@@ -7,5 +7,5 @@
 3. Open the website in Google Chrome.
 
 ## Image Preview:
-![image]('img/Image Preview.png)
+![image](https://github.com/adrianfurlanc/Videoconsola-CSS/blob/master/img/Preview.jp?raw=true)
 
