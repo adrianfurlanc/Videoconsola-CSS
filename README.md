@@ -16,6 +16,7 @@ You can open the webpage in the following link: https://adrianfurlanc.github.io/
 Click buttons to listen to sounds of Super Mario Bros Nintendo game.
 
 ## Technologies Used
-- HTML5 ![html](https://github.com/adrianfurlanc/Videoconsola-CSS/blob/master/img/css.jpg?raw=true)
-- CSS3
-- Javascript
+![html](https://github.com/adrianfurlanc/Videoconsola-CSS/blob/master/img/html.png?raw=true)
+![css](https://github.com/adrianfurlanc/Videoconsola-CSS/blob/master/img/css.jpg?raw=true)
+![javascript](https://github.com/adrianfurlanc/Videoconsola-CSS/blob/master/img/javascript.png?raw=true)
+
