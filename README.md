@@ -7,6 +7,7 @@ You can open the webpage in the following link: https://adrianfurlanc.github.io/
 1. Clone the git repository
 2. Install the ```Pretendo.ttf``` file.
 3. Open the website in Google Chrome.
+4. Use Visual Studio Live Server to be able to listen to Audio files.
 
 ## Audio
 Click buttons to listen to sounds of Super Mario Bros Nintendo game.
