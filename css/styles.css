@@ -141,26 +141,25 @@
   margin-left: -1em;
 }
 
-.bar1 {
-  background-color: #a7a6a6;
+.barSize {
   width: 10em;
   height: 2em;
+}
+
+.bar1 {
+  background-color: #a7a6a6;
   margin: 0em 0;
   border-radius: 7%;
 }
 
 .bar2 {
   background-color: #a7a6a6;
-  width: 10em;
-  height: 2em;
   margin: 0.3em 0;
   border-radius: 12%;
 }
 
 .bar3 {
   background-color: #a7a6a6;
-  width: 10em;
-  height: 2em;
   margin: 0.3em 0;
   border-radius: 12%;
   display: flex;
@@ -169,8 +168,6 @@
 
 .bar4 {
   background-color: #cfcfcf;
-  width: 10em;
-  height: 2em;
   margin: 0.3em 0;
   border-radius: 4%;
   display: flex;
@@ -180,8 +177,6 @@
 
 .bar5 {
   background-color: #a7a6a6;
-  width: 10em;
-  height: 2em;
   border-radius: 2%;
   margin: 0.7em 0;
 }
